@@ -16,3 +16,6 @@
  - css
  - react-router-dom
  - react-icons
+
+
+##### [Click here to view the site live](https://jolly-blackwell-5020d1.netlify.app/)
